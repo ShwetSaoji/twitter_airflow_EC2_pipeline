@@ -11,3 +11,7 @@ Tools: Airflow, Pandas, Tweepy, Dataframes <br>
 Languages: Python <br> <br>
 
 <img width="1426" alt="Screenshot 2024-03-10 at 5 50 13 PM" src="https://github.com/ShwetSaoji/twitter_airflow_EC2_pipeline/assets/112597837/7e473407-6f4a-47d5-8ce6-c89845d7c960">
+<br> <br>
+
+<img width="1407" alt="Screenshot 2024-03-10 at 6 06 55 PM" src="https://github.com/ShwetSaoji/twitter_airflow_EC2_pipeline/assets/112597837/61543028-992e-442a-a8b6-6287f830258a">
+
